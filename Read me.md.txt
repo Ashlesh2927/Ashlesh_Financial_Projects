@@ -1,0 +1,77 @@
+# Excel Financial Projects by Ashlesh
+
+## Project Overview
+This folder contains 2 practical Excel spreadsheets demonstrating 
+financial calculations and expense management.
+
+## What's Included?
+
+### 1. GST Calculator
+**Purpose:** Calculate GST amount and total price for products
+
+**How it works:**
+- Enter product name in A3
+- Enter price (without GST) in B4
+- GST rate automatically calculated (18%)
+- Formula: GST Amount = Price × (Rate/100)
+- Total Price = Price + GST Amount
+
+**Real-world use:**
+This helps accountants and business owners quickly calculate 
+product prices with GST during invoicing.
+
+**Example:**
+Laptop Price: ₹50,000
+GST Rate: 18%
+GST Amount: ₹9,000 (calculated by formula)
+Final Price: ₹59,000
+
+---
+
+### 2. Expense Tracker
+**Purpose:** Track monthly expenses and calculate totals
+
+**How it works:**
+- Enter date, category, and amount
+- Running total automatically calculates
+- Total sum at bottom
+- Average monthly spending shown
+
+**Formula Used:**
+- Running Total: =SUM($C$2:C2) [This is absolute reference]
+- Total: =SUM(C2:C5)
+- Average: =AVERAGE(C2:C5)
+
+**Real-world use:**
+Personal finance management, tracking household expenses, 
+budget planning.
+
+---
+
+## Technical Details
+
+**Tools Used:**
+- Microsoft Excel / Google Sheets
+- Formulas: SUM, AVERAGE, Basic arithmetic
+
+**Skills Demonstrated:**
+- Spreadsheet design
+- Formula creation
+- Data organization
+- Financial calculations
+
+---
+
+## How to Use
+
+1. Download `Ashlesh_Excel_Projects.xlsx`
+2. Open in Microsoft Excel or Google Sheets
+3. Modify numbers as per your requirement
+4. Formulas will auto-calculate
+
+---
+
+**Author:** Ashlesh  
+**Contact:** anahu24569@gmail.com  
+**Date Created:** June 2024  
+**Skills:** Excel, GST Knowledge, Financial Analysis

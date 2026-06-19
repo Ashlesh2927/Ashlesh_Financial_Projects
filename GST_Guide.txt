@@ -1,0 +1,56 @@
+GST COMPLIANCE & CALCULATION GUIDE
+===================================
+
+What is GST?
+Goods and Services Tax - Indirect tax on products/services
+
+Types of GST:
+1. CGST (Central) - 9%
+2. SGST (State) - 9%
+3. IGST (Inter-state) - 18%
+
+Total for same state: CGST + SGST = 18%
+Different state: IGST = 18%
+
+---
+
+EXAMPLE 1: INTRA-STATE (Same State) Transaction
+Product: Laptop
+Price (Without GST): ₹50,000
+
+Calculation:
+CGST (9%) = 50,000 × 9/100 = ₹4,500
+SGST (9%) = 50,000 × 9/100 = ₹4,500
+Total GST = ₹9,000
+Final Price = ₹59,000
+
+---
+
+EXAMPLE 2: INTER-STATE Transaction
+Product: Mobile Phone
+Price (Without GST): ₹30,000
+
+Calculation:
+IGST (18%) = 30,000 × 18/100 = ₹5,400
+Final Price = ₹35,400
+
+---
+
+EXAMPLE 3: Multiple Products (Same Invoice)
+
+Item          Price    GST%   GST Amt   Total
+Laptop        50,000   18%    9,000     59,000
+Mobile        30,000   18%    5,400     35,400
+Headphones    5,000    18%    900       5,900
+─────────────────────────────────────────────
+TOTAL         85,000          15,300    100,300
+
+---
+
+GST Registration Requirement:
+- Turnover > ₹40 lakhs = Compulsory
+- Turnover < ₹40 lakhs = Optional
+
+---
+
+Author: Ashlesh
