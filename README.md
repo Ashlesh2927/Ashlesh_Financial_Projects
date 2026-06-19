@@ -13,14 +13,9 @@ This repository contains my practical finance and accounting projects.
 - **Skills:** Advanced Excel formulas, Data analysis
 - **Location:** `/Excel_Projects/`
 
-### 2. 📚 Tally Accounting System
-- Complete accounting setup with 20+ transactions
-- Financial statements (P&L, Balance Sheet, Trial Balance)
-- GST compliance implementation
-- **Skills:** Tally Prime, Accounting standards, GST
-- **Location:** `/Tally_Projects/`
 
-### 3. 📝 GST Compliance Documentation
+
+### 2. 📝 GST Compliance Documentation
 - GST structure explanation (CGST, SGST, IGST)
 - Real-world calculation examples
 - Compliance guidelines
